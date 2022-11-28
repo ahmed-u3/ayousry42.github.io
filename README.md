@@ -7,5 +7,5 @@
 - Violinist
 - Java & python dev
 - [Facebook Profile] (https://www.facebook.com/ahmed.yousry.aly15/)
-## Project 
+### Project 
 [Connect 4 with Minimax and alpha beta] (https://github.com/ayousry42/AIConnect4)
