@@ -1,6 +1,6 @@
 # Ahmed Yousri
-[Github Profile](https://github.com/ayousry42)
-[Linkedin Profile](https://www.linkedin.com/in/ahmed-yousry-807582196/)
+-[ Github Profile](https://github.com/ayousry42)
+- [Linkedin Profile](https://www.linkedin.com/in/ahmed-yousry-807582196/)
 ## **About me**
 - Programmer
 - CS Student in alex uni (AI dep)
